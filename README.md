@@ -1,6 +1,6 @@
 # Red Team Cybersecurity - Assignment 1
 
-This repository contains Assignment 1 completed as part of the ITSimplera Red Team Cyber Security Internship Program.
+This repository contains Assignment 1 completed as part of the ITSimplera Red Team Cybersecurity Internship Program.
 
 Topics covered include:
 
